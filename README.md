@@ -9,6 +9,16 @@ brew install callmesukhi/tap/migration-machine
 migrate wizard
 ```
 
+<<<<<<< HEAD
+=======
+Prefer the short name? Tap once, then install unqualified:
+
+```bash
+brew tap callmesukhi/tap
+brew install migration-machine
+```
+
+>>>>>>> 10a51fb (Add README.md for homebrew-tap installation instructions and repository details)
 To track the latest `main` instead of the tagged release:
 
 ```bash
