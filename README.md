@@ -1,5 +1,7 @@
 # homebrew-tap
 
+[![brew test-bot](https://github.com/callmesukhi/homebrew-tap/actions/workflows/tests.yml/badge.svg)](https://github.com/callmesukhi/homebrew-tap/actions/workflows/tests.yml)
+
 Homebrew tap for [migration-machine](https://github.com/callmesukhi/migration-machine), a tool to move your whole Mac setup to a new machine without Migration Assistant or Time Machine.
 
 ## Install
